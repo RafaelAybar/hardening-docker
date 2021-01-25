@@ -9,6 +9,6 @@ Este scrips sólo pedirá permisos de administrador para gestionar los pre-requi
 
 ```
     export PATH=/home/TU_USUARIO/bin:$PATH
-    export PATH=$PATH:/sbi0n
+    export PATH=$PATH:/sbin
     export DOCKER_HOST=unix:///run/user/TU_ID_USUARIO/docker.sock
 ```
