@@ -32,4 +32,5 @@ mysql (debian 10.7)
 ===================
 Total: 144 (UNKNOWN: 1, LOW: 93, MEDIUM: 11, HIGH: 39, CRITICAL: 0)```
 
+
 Seguido de una tabla donde explicarán las vulnerabilidades con un poco más de detalle.
